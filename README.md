@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Computer Vision, Machine Learning, and Web Technologies
+- 🌱 I’m currently learning Tensorflow and Django
+- 👯 I’m looking to collaborate on MaskRCNN, Object Detection, and Fullstack Projects
+- 🤔 I’m looking for help with TFOD and Profile Building
+- 💬 Ask me about Opensource, Python, Javascript
+- 📫 How to reach me: chitnis.gautam1@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love travelling! :airplane:
