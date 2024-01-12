@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently pursuing my graduate studies from Santa Clara University
+- 🔭 I've completed my MS CSE degree from Santa Clara University in 2023.
 - 🌱 I’m currently learning DevOps and MLOps
 - 👯 I’m looking to collaborate on Fullstack Projects
 - 🤔 I’m looking for help with Profile Building
